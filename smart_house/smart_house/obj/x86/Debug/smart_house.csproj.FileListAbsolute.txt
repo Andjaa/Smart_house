@@ -1,0 +1,4 @@
+C:\Users\Korisnik\Desktop\Smart_house\smart_house\smart_house\bin\Debug\smart_house.exe
+C:\Users\Korisnik\Desktop\Smart_house\smart_house\smart_house\bin\Debug\smart_house.pdb
+C:\Users\Korisnik\Desktop\Smart_house\smart_house\smart_house\obj\x86\Debug\smart_house.exe
+C:\Users\Korisnik\Desktop\Smart_house\smart_house\smart_house\obj\x86\Debug\smart_house.pdb
